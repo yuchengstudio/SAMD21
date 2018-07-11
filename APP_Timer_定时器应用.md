@@ -14,6 +14,11 @@ http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-2A8AADED
 ## 如何在start界面添加timer driver
 
 ## 使用start配置PIN口输出，点亮LED
+ | 步骤 | 图示 | 说明 |
+ | - | ---- | --- | 
+ | 1 | $1 | 5 | 
+ | 2 | $1 | 6 | 
+ | 3 | $1 | 7 |
 
 
 ## 如何添加应用代码调用驱动
