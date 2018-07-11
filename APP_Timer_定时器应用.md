@@ -16,7 +16,7 @@ http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-2A8AADED
 ## 使用start配置PIN口输出，点亮LED
  | 步骤 | 图示 | 说明 |
  | - | ---- | --- | 
- | 1 | ![images](https://github.com/yuchengstudio/SAMD21/blob/master/picture/SAMD21_Timer_001.jpg) | 找到SAM D21 Xplained Pro开发板中LED0对应芯片的Pin口脚| 
+ | 1 | ![images](https://github.com/yuchengstudio/SAMD21/blob/master/picture/SAMD21_Timer_001.jpg) | 找到SAM D21 Xplained Pro开发板中LED0对应芯片的Pin口脚 http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42220-SAMD21-Xplained-Pro_User-Guide.pdf| 
  | 2 | $1 | 6 | 
  | 3 | $1 | 7 |
 
