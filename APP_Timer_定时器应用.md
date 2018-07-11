@@ -1,7 +1,11 @@
 # 目录
 ## 概述
+、、、
+1.本实验使用SAMD21 Xplained pro开发板
+2.使用start产生Timer驱动，并使用Timer定时器任务产生1s一次的LED闪烁功能。
+、、、
 
-
+http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42220-SAMD21-Xplained-Pro_User-Guide.pdf
 
 
 ## SAMD21定时器应用概述
@@ -10,5 +14,6 @@ http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-2A8AADED
 ## 如何在start界面添加timer driver
 
 ## 使用start配置PIN口输出，点亮LED
+
 
 ## 如何添加应用代码调用驱动
